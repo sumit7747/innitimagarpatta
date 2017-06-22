@@ -1,0 +1,31 @@
+User-agent: *
+
+Disallow: /Role-of-inniti-in-property-and-casualty.aspx
+Disallow: /Role-of-inniti-in-property-and-casualty.aspx?*
+
+Disallow: /Backend/
+Disallow: /automation-solutions.aspx
+
+Disallow: /business-intelligence-structuring-multisource-data.aspx
+Disallow: /business-process-management-voice-back-office-and-Data.aspx
+ Disallow: /business-intelligence-analytics-big-data.aspx
+Disallow:/customer-services.aspx
+Disallow:/insurance-services-enrollment.aspx
+ 
+Disallow:life-insurance .aspx
+Disallow:life-insurance .aspx?*
+Disallow:Reporting-and-Dashboards.aspx
+Disallow:prescriptive-analytics.aspx
+Disallow:predictive-analytics.aspx
+
+Disallow:Life-Insurance-Claims-Management-Process.aspx
+Disallow:insurance-business-solutions.aspx
+Disallow:open-source-development.aspx
+Disallow:mobile-application-app-and-web-development.aspx
+Disallow:application-upgradation.aspx
+Disallow:application-upgradation-creating-connectors.aspx
+Disallow:application-upgradation-creating-middleware-components.aspx
+Disallow:application-upgradation-migration-legacy-systems.aspx
+Disallow:Test.aspx
+
+Disallow:Resource.aspx

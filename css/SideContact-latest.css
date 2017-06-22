@@ -1,0 +1,219 @@
+ .bredicon {
+            padding-right: 0;
+        }
+
+
+        .bl{
+padding: 9px;
+font-weight:bold;
+}
+
+
+        .bar {
+        width: 100%;
+margin: 5px;
+        
+        }
+
+
+        .bar-submit {
+
+           width: 60%;
+        }
+
+    .g-recaptcha {
+  margin-left: 2px;
+transform: scale(0.78);
+transform-origin: 0 0 0;
+padding-bottom: 3px;
+padding: 7px;
+}
+   
+
+
+
+
+        /*panel-body1 {
+            padding: 20px 2% 10px 2%;
+            line-height: 28px;
+            text-align: justify;
+            width: 100%;
+        }
+            */
+
+        .sp {
+            padding: 0px 50px 0px 0px;
+        }
+
+
+        .ulq {
+            margin: 0px 22px;
+        }
+
+
+
+        /*.sp {
+        padding: 0px 0px 0px 17px;}
+
+            For media query
+
+        */
+
+        	  .contactside   {
+            background-color: #5c5e69;
+            height: auto;
+            font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+            font-size: 17px;
+            color: #fff;
+            text-align: center;
+            margin-top: 10px;
+            border-radius: 10px;
+        }
+          
+		   #lstofall-sidecontact{list-style: none !important;
+padding: 8px 8px !important;
+margin: 0px 3px 0px -8px !important;
+	 	}
+		  
+
+        /*@media screen and (max-height: 575px){
+#rc-imageselect, .g-recaptcha {transform:scale(0.77);-webkit-transform:scale(0.77);transform-origin:0 0;-webkit-transform-origin:0 0;}
+}
+        @media(max-width: $screen-xs-max){
+  .g-recaptcha iframe {
+    max-width: 100%;
+    transform:scale(0.77);
+    -webkit-transform:scale(0.77);
+    transform-origin: center center;
+    -webkit-transform-origin: center center;
+  }
+  #rc-imageselect {
+    transform:scale(0.77) !important;
+    -webkit-transform:scale(0.77) !important;
+    transform-origin:0 0 !important;
+    -webkit-transform-origin:0 0 !important;
+  }
+}*/
+
+        /*html #recaptcha_area, html #recaptcha_table {
+    width: 300px !important;
+}
+
+
+        .g-recaptcha {
+            -webkit-transform: scale(0.69) !important;
+            padding: 0px !important;
+            /*one more on side contact*/
+
+        }
+
+
+
+        /*@media (min-width: 320px) and (max-width: 480px) {
+        #recaptcha_challenge_image{
+        margin: 0 !important;
+        width: 100% !important;
+        }
+        #recaptcha_response_field
+        {
+        margin: 0 !important;
+        width: 100% !important;
+        }
+        .recaptchatable #recaptcha_image {
+        margin: 0 !important;
+        width: 100% !important;
+        }
+        .recaptchatable .recaptcha_r1_c1, 
+        .recaptchatable .recaptcha_r3_c1, 
+        .recaptchatable .recaptcha_r3_c2, 
+        .recaptchatable .recaptcha_r7_c1, 
+        .recaptchatable .recaptcha_r8_c1, 
+        .recaptchatable .recaptcha_r3_c3, 
+        .recaptchatable .recaptcha_r2_c1, 
+        .recaptchatable .recaptcha_r4_c1, 
+        .recaptchatable .recaptcha_r4_c2, 
+        .recaptchatable .recaptcha_r4_c4, 
+        .recaptchatable .recaptcha_image_cell {
+
+        margin: 0 !important;
+        width: 100% !important;
+        background: none !important;
+        }
+
+    }*/
+	
+	@media screen and (max-width: 699px) and (min-width: 520px), (min-width: 1151px) {
+    ul li a {
+        padding-left: 30px;
+        background: url(email-icon.png) left center no-repeat;
+    }
+}
+
+
+        @media (min-width:240px) and (max-width:989px){
+
+            .sp {
+        padding: 0px 0px 0px 17px;}
+
+
+            /* .g-recaptcha { */
+           /* transform: scale(0.77); */
+
+            /* } */
+            
+        .Mq {
+            margin: 0px 0px 0px 15px;
+			width:100%;
+        }
+}
+
+
+
+
+   @media (min-width:240px) and (max-width:290px){
+
+.g-recaptcha {
+    transform: scale(0.67);
+   }}
+
+
+
+@media (min-width:290px) and (max-width:310px){
+
+.g-recaptcha {
+    transform: scale(0.73);
+}
+}
+
+@media (min-width:320px) and (max-width:340px){
+
+.g-recaptcha {
+    transform: scale(0.83);
+}}
+@media (min-width:340px) and (max-width:360px){
+
+.g-recaptcha {
+    transform: scale(0.93);
+}}
+@media (min-width:360px) and (max-width:380px){
+
+.g-recaptcha {
+    transform: scale(0.103);
+}}
+@media (min-width:380px) and (max-width:400px){
+
+.g-recaptcha {
+    transform: scale(0.113);
+}
+}
+
+
+
+
+
+
+
+
+
+
+

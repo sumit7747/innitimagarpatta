@@ -1,0 +1,83 @@
+﻿
+
+.bredicon{
+	
+	
+}
+
+
+.bl{
+padding: 9px;
+font-weight:bold;
+}
+
+        #ctl00_MainContent_maincontrol_txt_name {width: 83%;
+margin: 5px;
+        }
+        #ctl00_MainContent_maincontrol_txt_email {width: 83%;
+margin: 5px;
+        }
+        #ctl00_MainContent_maincontrol_txt_phone {width: 83%;
+margin: 5px;
+        }
+        #ctl00_MainContent_maincontrol_txt_comm {width: 83%;
+margin: 5px;
+padding:20px;
+        }
+        #ctl00_MainContent_maincontrol_rqv_email {
+            margin: 10px;
+        }
+        #ctl00_MainContent_maincontrol_rgv_name { margin: 10px;
+        }
+        #ctl00_MainContent_maincontrol_ctrlGoogleReCaptcha001 {width: 83%;
+margin: 5px;
+        }
+           .contact   {
+            background-color: #5c5e69;
+            height: auto;
+            font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+            font-size: 17px;
+            color: #fff;
+            text-align: center;
+            margin-top: 10px;
+            border-radius: 10px;
+        }
+           #lstofall{list-style: none !important;
+padding: 8px 8px !important;
+margin: 0px 3px 0px -8px !important;
+	 	}
+          .g-recaptcha {
+              padding: 0px 45px !important;
+      }
+	  .g-recaptcha {
+    margin-left: 0px !important;
+    padding: 0px !important;
+    transform: scale(0.62);
+    transform-origin: 0 0 0;
+}
+input{width:100% !important}
+      #maincontrol1_btn_submit {
+      
+      padding: 2px;
+margin: 14px;
+width: 63%;
+      }
+        #ctl00_MainContent_maincontrol_btn_submit {
+            width: 50% !important;
+            margin-bottom: 20px;
+            font-weight: bold;
+            color: #000;
+            font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+        }
+        gc-reset{
+transform:scale(0.95) !important;
+-webkit-transform:scale(0.95) !important;
+transform-origin:0 0 !important;
+-webkit-transform-origin:0 0 !important;
+}
+        .g-recaptcha {
+    transform:scale(0.22);
+    transform-origin:0 0;
+}
+
+        #rc-imageselect {transform:scale(0.77);-webkit-transform:scale(0.77);transform-origin:0 0;-webkit-transform-origin:0 0;}
